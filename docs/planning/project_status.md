@@ -373,7 +373,7 @@
 
 ### **🔗 روابط مهمة:**
 - **[Firebase Console](https://console.firebase.google.com/project/wassit-app-dca48)** - واجهة إدارة Firebase
-- **[GitHub Repository](https://github.com/alijawdat-cyber/WASSIT)** - مستودع الكود
+- **[GitHub Repository](https://github.com/alijawdat-cyber/Wassit-app)** - مستودع الكود
 
 ---
 

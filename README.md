@@ -4,7 +4,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com)
-[![Status](https://img.shields.io/badge/Status-جاهز_للتطوير-green?style=for-the-badge)](https://github.com)
+[![Status](https://img.shields.io/badge/Status-جاهز_للتطوير-green?style=for-the-badge)](https://github.com/alijawdat-cyber/Wassit-app)
 
 ---
 
@@ -160,7 +160,7 @@ flutter run -d [اسم_الجهاز]
 
 ### 🔗 **روابط مهمة**
 - **Firebase Console:** [wassit-app-dca48](https://console.firebase.google.com/project/wassit-app-dca48)
-- **GitHub Repository:** [alijawdat-cyber/WASSIT](https://github.com/alijawdat-cyber/WASSIT)
+- **GitHub Repository:** [alijawdat-cyber/Wassit-app](https://github.com/alijawdat-cyber/Wassit-app)
 
 ---
 
@@ -372,7 +372,7 @@ flutter run -d [اسم_الجهاز]
 
 ### **🔧 أدوات التطوير:**
 - 🔥 [Firebase Console](https://console.firebase.google.com/project/wassit-app-dca48)
-- 🐙 [GitHub Repository](https://github.com/alijawdat-cyber/WASSIT)
+- 🐙 [GitHub Repository](https://github.com/alijawdat-cyber/Wassit-app)
 - 📱 [Flutter Documentation](https://flutter.dev/docs)
 
 ### **📖 الوثائق المحدثة:**
