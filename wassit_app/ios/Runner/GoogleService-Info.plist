@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>76692763256-ee2gke2hlkp56ihsamiknscgca2ld6ng.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.76692763256-ee2gke2hlkp56ihsamiknscgca2ld6ng</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDn4GCAJTJS7YS4RkzUaRKSlLQQ88-nddY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>76692763256</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wassit.wassitApp</string>
+	<key>PROJECT_ID</key>
+	<string>wassit-app-dca48</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wassit-app-dca48.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:76692763256:ios:dda7591865b46e02cc738d</string>
+</dict>
+</plist>

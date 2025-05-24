@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76692763256",
+    "project_id": "wassit-app-dca48",
+    "storage_bucket": "wassit-app-dca48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76692763256:android:f7dde77ab9e57b16cc738d",
+        "android_client_info": {
+          "package_name": "com.wassit.wassit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76692763256-s49tj6crsnascvolnl95e2he0rbkd2q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUVyDpXBG54b0JKiE7YBV7c8hbrte08jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76692763256-s49tj6crsnascvolnl95e2he0rbkd2q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
